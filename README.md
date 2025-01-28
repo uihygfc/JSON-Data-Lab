@@ -1,5 +1,3 @@
-// Fetching live weather data and visualizing it in p5.js
-
 let weatherData;
 let url = "https://api.weather.gov/gridpoints/OKX/33,37/forecast"; // Replace with your grid info
 
